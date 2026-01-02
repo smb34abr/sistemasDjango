@@ -4,7 +4,6 @@ __pycache__/
 db.sqlite3
 media/
 staticfiles/
-__pycache__/
 *.log
 .env.local
 .env.dev
@@ -19,9 +18,3 @@ __pycache__/
 .env.*.local.*
 .DS_Store
 .env.*.local.*.*
-.env.*.local.*.*.*
-.env.*.local.*.*.*.*
-.env.*.local.*.*.*.*.*
-.env.*.local.*.*.*.*.*.*
-.env.*.local.*.*.*.*.*.*.*
-.env.*.local.*.*.*.*.*.*.*.*

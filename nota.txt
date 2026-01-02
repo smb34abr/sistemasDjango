@@ -2,8 +2,11 @@
 python -m venv env
 env\Scripts\activate
 
-# Crear un nuevo proyecto Django
+# Para saber que modulo tenemos instalado
+pip list
+pip freeze
 
+# Crear un nuevo proyecto Django
 django-admin startproject sistemasDjango .
 cd sistemasDjango
 python manage.py runserver
